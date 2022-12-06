@@ -4,6 +4,15 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-ul {
+.toc {
     background-color: white;
 }
+
+.title {
+    color: black;
+}
+
+ul, ol, h3 {
+    text-align: left;
+}
+
